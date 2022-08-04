@@ -14,11 +14,12 @@ I am a skilful Business Intelligence Analyst delivering a variety of analyses, i
 
 📖 Learning: Google Looker, Python & Git
 
-⛳  Hobbies when I am not coding: 
-	🌲 Woodworking: Carpentry, Joinery, Hand Tools
-	🚶‍♂️ Walking: Countryside, Hill Walking, Rambling, Map Reading
-	🍺 Drinking: Whiskey, Lager , Rum
-	🍕 Food: Pizza, Meat, Pasta, Chocolate, Crisps 
+⛳  Hobbies when I am not coding:  
+
+    🌲 Woodworking: Carpentry, Joinery, Hand Tools  
+    🚶‍♂️ Walking: Countryside, Hill Walking, Rambling, Map Reading  
+    🍺 Drinking: Whiskey, Lager , Rum  
+    🍕 Food: Pizza, Meat, Pasta, Chocolate, Crisps
 
 Yes I feel food & drink can be hobbies🙂 
 
