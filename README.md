@@ -29,6 +29,9 @@ Yes I feel food & drink can be hobbies🙂
 
 I am currently learning Python.  
 
+---
+
+### Git Hub Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riggers1812&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
