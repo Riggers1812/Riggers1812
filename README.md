@@ -16,11 +16,11 @@ I want to feel that the world has gained from my existence. I want to help & loo
 📖 Learning: Google Looker, Python & Git
 
 ⛳  Hobbies when I am not coding:  
-
+  
     🌲 Woodworking: Carpentry, Joinery, Hand Tools  
     🚶‍♂️ Walking: Countryside, Hill Walking, Rambling, Map Reading  
     🍺 Drinking: Whiskey, Lager , Rum  
-    🍕 Food: Pizza, Meat, Pasta, Chocolate, Crisps
+    🍕 Food: Pizza, Meat, Pasta, Chocolate, Crisps  
 
 Yes I feel food & drink can be hobbies🙂
 
