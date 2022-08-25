@@ -34,6 +34,11 @@ I am currently learning Python.
 
 ### Git Hub Statistics
 
+![](https://raw.githubusercontent.com/riggers1812/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/riggers1812/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riggers1812&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
