@@ -34,8 +34,8 @@ I am currently learning Python.
 
 ### Git Hub Statistics
 
-![](https://raw.githubusercontent.com/riggers1812/GitHub-Statistics-Visualisation/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/riggers1812/GitHub-Statistics-Visualisation/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/riggers1812/github-statistics-visualisation/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/riggers1812/github-statistics-visualisation/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
