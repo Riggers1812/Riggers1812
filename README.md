@@ -38,10 +38,10 @@ I am currently learning Python.
 ![](https://raw.githubusercontent.com/riggers1812/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riggers1812&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **Riggers1812/Riggers1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
