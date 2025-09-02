@@ -28,10 +28,10 @@ I believe in leaving things better than I found them. That means sharing knowled
 
 ⛳  Hobbies (when I am not coding):  
   
-    🌲 **Woodworking**: Carpentry, Joinery, Hand Tools  
-    🚶‍♂️ **Walking**: Countryside, Hill Walking, Rambling, Map Reading  
-    🍺 **Drinking**: Whiskey, Lager, Rum  
-    🍕 **Food**: Pizza, Meat, Pasta, Chocolate, Crisps  
+    🌲 Woodworking: Carpentry, Joinery, Hand Tools  
+    🚶‍♂️ Walking: Countryside, Hill Walking, Rambling, Map Reading  
+    🍺 Drinking: Whiskey, Lager, Rum  
+    🍕 Food: Pizza, Meat, Pasta, Chocolate, Crisps  
 
 Yes I feel food & drink can be hobbies🙂
 
