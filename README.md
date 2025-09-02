@@ -1,34 +1,47 @@
 # David Rigby
 
-## Hi there :wave:
+## Hi there, welcome! :wave:
 
-I am a skilful Business Intelligence Analyst delivering a variety of analyses, insight and reports.  I am always ready to learn new skills.  
-I want to feel that the world has gained from my existence. I want to help & look after the people around me by sharing knowledge and skills through interacting with people to create joy and happiness. I want to make the environment around me cleaner and tidier to leave it healthier than before I was there, therefore, looking after the environment as a whole.
+I'm a skilful Business Intelligence Analyst delivering a variety of analyses, insights, and reports. I’m passionate about learning new skills and using data to make a meaningful impact—whether that’s solving business problems, helping others grow, or improving the world around me.
+
+I believe in leaving things better than I found them. That means sharing knowledge to create joy and happiness, supporting those around me, and caring for the environment—making it cleaner, tidier, and healthier through everyday actions.
 
 ---
 
-### Background
+### 🏡 Background
 
-🏠  Based: Wigan, Northwest, England.
+🏠 **Location**: Wigan, Northwest, England.
 
-💼 Experience: Excel, SQL Server, Power BI, Google Looker, LookML
+💼 **Experience**: Excel, SQL Server, Power BI, Google Looker, LookML & Python
 
-📖 Learning: Html, Liquid, Python & Git
+📖 **Learning**: Html, Liquid, & Git
 
-⛳  Hobbies when I am not coding:  
+---
+
+### 🧰 Tools & Technologies
+- **Languages**: SQL, Python
+- **BI Platforms**: Looker, Power BI, BigQuery
+- **Skills**: Data Modeling, Insight Generation, Dashboard Design, Automation
+- **Interests**: Agentic AI, Data Storytelling, Sustainable Tech
+
+---
+
+⛳  Hobbies (when I am not coding):  
   
-    🌲 Woodworking: Carpentry, Joinery, Hand Tools  
-    🚶‍♂️ Walking: Countryside, Hill Walking, Rambling, Map Reading  
-    🍺 Drinking: Whiskey, Lager, Rum  
-    🍕 Food: Pizza, Meat, Pasta, Chocolate, Crisps  
+    🌲 **Woodworking**: Carpentry, Joinery, Hand Tools  
+    🚶‍♂️ **Walking**: Countryside, Hill Walking, Rambling, Map Reading  
+    🍺 **Drinking**: Whiskey, Lager, Rum  
+    🍕 **Food**: Pizza, Meat, Pasta, Chocolate, Crisps  
 
 Yes I feel food & drink can be hobbies🙂
 
 ---
 
-### Learning
+### 🌱 What I'm Learning
 
-I am currently learning Python.  
+- Advanced Python for data workflows
+- Agentic AI and its applications in business intelligence
+- Sustainable data practices and green tech  
 
 ---
 
