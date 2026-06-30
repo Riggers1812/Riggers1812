@@ -87,7 +87,12 @@ Yes I feel food & drink can be hobbies🙂
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Rigby-blue?logo=linkedin)](https://www.linkedin.com/in/david-rigby-19770251/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BelUmlOuRSv2d%2FwpX0gf%2Bxw%3D%3D)
+💼 LinkedIn: [David Rigby](https://www.linkedin.com/in/david-rigby-19770251/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BelUmlOuRSv2d%2FwpX0gf%2Bxw%3D%3D)
+
+📊 Business Intelligence Developer | Data Solutions Builder
+
+💡 Building Systems Behind Better Decisions
+
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riggers1812&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
