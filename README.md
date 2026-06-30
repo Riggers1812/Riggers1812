@@ -88,9 +88,7 @@ Yes I feel food & drink can be hobbies🙂
 ### 🤝 Let's Connect
 
 💼 LinkedIn: [David Rigby](https://www.linkedin.com/in/david-rigby-19770251/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BelUmlOuRSv2d%2FwpX0gf%2Bxw%3D%3D)
-
 📊 Business Intelligence Developer | Data Solutions Builder
-
 💡 Building Systems Behind Better Decisions
 
 
