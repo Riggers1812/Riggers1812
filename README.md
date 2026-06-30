@@ -2,9 +2,15 @@
 
 ## Hi there, welcome! :wave:
 
-I'm a skilful Business Intelligence Analyst delivering a variety of analyses, insights, and reports. I’m passionate about learning new skills and using data to make a meaningful impact—whether that’s solving business problems, helping others grow, or improving the world around me.
+I am a Business Intelligence Developer | Data Solutions Builder who enjoys turning complex business challenges into practical, data-driven solutions. I’m passionate about learning new skills and using data to make a meaningful impact—whether that’s solving business problems, helping others grow, or improving the world around me.
+
+I believe the best data solutions are the ones people trust, understand and use to make better decisions.
 
 I believe in leaving things better than I found them. That means sharing knowledge to create joy and happiness, supporting those around me, and caring for the environment—making it cleaner, tidier, and healthier through everyday actions.
+
+### 💡 Personal Motto
+
+>**Building Systems Behind Better Decisions**
 
 ---
 
@@ -12,17 +18,38 @@ I believe in leaving things better than I found them. That means sharing knowled
 
 🏠 **Location**: Wigan, Northwest, England.
 
-💼 **Experience**: Excel, SQL Server, Power BI, Google Looker, LookML & Python
+💼 **Experience**: SQL • BigQuery • Looker • LookML • Python • Power BI • Data Modelling • Analytics Engineering
 
-📖 **Learning**: Html, Liquid, & Git
+📖 **Learning**: Liquid • Git • Agentic AI • Modern Data Engineering
 
 ---
 
-### 🧰 Tools & Technologies
+### 🎯 My Focus
+
+I enjoy building:
+
+✅ Data models people can trust
+
+✅ Reporting systems that scale
+
+✅ Analytics products that create value
+
+✅ Automation that removes manual effort
+
+✅ Solutions that help organisations make better decisions
+
+My goal is simple:
+
+**Build systems that make life easier for people and decisions better for businesses.**
+
+---
+
+### 🛠️ Technology Stack
+
 - **Languages**: SQL, Python
-- **BI Platforms**: Looker, Power BI, BigQuery
-- **Skills**: Data Modeling, Insight Generation, Dashboard Design, Automation
-- **Interests**: Agentic AI, Data Storytelling, Sustainable Tech
+- **Analytics & BI**: Looker, LookML, Power BI
+- **Data Platforms**: BigQuery, GCP
+- **Development Tools**: Git, GitHub, VS Code
 
 ---
 
@@ -37,13 +64,19 @@ Yes I feel food & drink can be hobbies🙂
 
 ---
 
-### 🌱 What I'm Learning
+### 🌱 What I'm Currently Building & Learning
 
-- Advanced Python for data workflows
-- Agentic AI and its applications in business intelligence
-- Sustainable data practices and green tech  
+
+- Advanced Python for analytics and automation
+- Analytics Engineering best practices
+- Agentic AI and business applications
+- Data products and self-service analytics
+- Sustainable and efficient data solutions
+ 
 
 ---
+
+
 
 ### Git Hub Statistics
 
