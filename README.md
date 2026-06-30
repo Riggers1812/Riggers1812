@@ -2,15 +2,17 @@
 
 ## Hi there, welcome! :wave:
 
-I am a Business Intelligence Developer | Data Solutions Builder who enjoys turning complex business challenges into practical, data-driven solutions. I’m passionate about learning new skills and using data to make a meaningful impact—whether that’s solving business problems, helping others grow, or improving the world around me.
+I am a Business Intelligence Developer and Data Solutions Builder who enjoys turning complex business challenges into practical, data-driven solutions. I’m passionate about learning new skills and using data to make a meaningful impact—whether that’s solving business problems, helping others grow, or improving the world around me.
 
 I believe the best data solutions are the ones people trust, understand and use to make better decisions.
 
 I believe in leaving things better than I found them. That means sharing knowledge to create joy and happiness, supporting those around me, and caring for the environment—making it cleaner, tidier, and healthier through everyday actions.
 
+I enjoy working at the intersection of data, technology and business, building solutions that simplify complexity and create lasting value.
+
 ### 💡 Personal Motto
 
->**Building Systems Behind Better Decisions**
+> **Building Systems Behind Better Decisions**
 
 ---
 
@@ -83,6 +85,9 @@ Yes I feel food & drink can be hobbies🙂
 ![](https://raw.githubusercontent.com/riggers1812/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/riggers1812/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Rigby-blue?logo=linkedin)](https://www.linkedin.com/in/david-rigby-19770251/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BelUmlOuRSv2d%2FwpX0gf%2Bxw%3D%3D)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riggers1812&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
